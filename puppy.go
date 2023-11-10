@@ -1,7 +1,7 @@
 package puppy
 
-func Bark() string{
-	retrun "Woof!"
+func Bark() string {
+	return "Woof!"
 }
 
 func Barks() string {
